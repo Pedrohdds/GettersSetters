@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Development\Guanabara\.metadata\.plugins\org.eclipse.jdt.core
+886848572.index
+24541515.index
+1865797976.index
